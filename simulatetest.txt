@@ -1,4 +1,4 @@
-  "AadClientId": "484ff98c-e046-4e2d-a603-af11c917a4ff",
-  "AadSecret": "1FE8Q~jDcnn4XKw4-8GbnNsx0w0xbtFLWVtk.bIc",
-  "AadTenantDomain": "progratek.onmicrosoft.com",
-  "AadTenantId": "902edbe3-0ff1-4606-9209-e2cf0791c190",
+"AadClientId": "484ff98c-e046-4e2d-a603-af11c917a4ff",
+"AadSecret": "1FE8Q~jDcnn4XKw4-8GbnNsx0w0xbtFLWVtk.bIc",
+"AadTenantDomain": "progratek.onmicrosoft.com",
+"AadTenantId": "902edbe3-0ff1-4606-9209-e2cf0791c190",
